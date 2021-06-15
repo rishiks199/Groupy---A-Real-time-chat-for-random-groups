@@ -1,6 +1,11 @@
 # Groupy---A-chat-application-for-your-peers-
 Connect and chat with multiple persons in a single time with private room. 
 
+check the live App - 
+https://groupy-realtimechat.herokuapp.com/
+
+
+
 Requirement in your system
  1 - node
  2 - nodemon
