@@ -12,7 +12,7 @@ const server = http.createServer(app)
 const io = socketio(server);
 
 
-app.use(express.static(path.join(__dirname,'public')));
+app.use(express.static(path.join(__dirname,'.')));
 
 const botName  = 'Bot is here ';
 
